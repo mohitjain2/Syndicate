@@ -1,10 +1,11 @@
 # Syndicate
+#Custom project
 #Analysis of Dataset from Pokemon Api
 
 •	Team Members – 
--	Abhijit Nelli
--	Mohit Jain
--	Jash Patel
+-	Abhijit Nelli - @NelliAbhi
+-	Mohit Jain - @mohitjain2
+-	Jash Patel - @JashSonu
 
 •	Project Name – Data Analysis of the Pokémon Universe
 
