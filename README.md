@@ -30,3 +30,5 @@
 
 •	Files – 
 - Datacollection.ipynb : Data Collection from API Endpoints and Creation of Database.
+- Pokemon_data.db : Pokemon Database
+- Datacollection.pdf : Jupter file Pdf to display the content on github
