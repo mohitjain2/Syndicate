@@ -27,3 +27,6 @@
 -	Querying – Mohit Jain
 -	Analysis of insights – Jash Patel
 -	Visualization of results - Abhijit Nelli
+
+•	Files – 
+- Datacollection.ipynb : Data Collection from API Endpoints and Creation of Database.
