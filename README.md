@@ -16,7 +16,7 @@
 •	Data Sources – The following are the sources of data that we are proposing to use in our project.
 
 -	https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
-- https://pokeapi.co/docs/v2#encounters-section
+- 	https://pokeapi.co/docs/v2#encounters-section
 -	https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#gaming 
 
 •	Distribution of work – 
@@ -27,3 +27,6 @@
 -	Querying – Mohit Jain
 -	Analysis of insights – Jash Patel
 -	Visualization of results - Abhijit Nelli
+
+•	Files – 
+-   Datacollection.ipynb : data Colllection from API Endpoints and creation of Database.
