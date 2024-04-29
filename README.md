@@ -30,5 +30,8 @@
 
 •	Files – 
 - Datacollection.ipynb : Data Collection from API Endpoints and Creation of Database.
-- Pokemon_data.db : Pokemon Database
-- Datacollection.pdf : Jupter file Pdf to display the content on github
+- Pokemon_data.db : Pokemon Database.
+- Datacollection.pdf : Jupter file Pdf to display the content on github.
+- EDA.ipynb : Data Analysis on the Database and Visualizations.
+- Pokemon_ppt.pptx : Final Presentation for the findings from EDA.
+- types.csv : Type Effective chart for Datacollection.ipynb.
